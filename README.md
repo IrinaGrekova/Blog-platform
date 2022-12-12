@@ -1,5 +1,4 @@
 
-Ссылка на vercel - blog-platform-gfen5p0lr-irinagrekova.vercel.app
 
 
 Блог-платформа #1 - Начало
